@@ -42,15 +42,14 @@ A evasão de clientes é um dos principais desafios no setor de telecomunicaçõ
 
 ## 📁 Estrutura do Projeto
 
+- **AluraTelecomX2/**
+  - 📒 **TelecomX_BR.ipynb** – Notebook principal com análise completa  
+  - 📊 **dados_tratados.csv** – Dataset pré-processado para análise  
+  - 🌳 **modelo_random_forest_final.pkl** – Modelo Random Forest treinado e otimizado  
+  - 🔢 **modelo_regressao_logistica_final.pkl** – Modelo Regressão Logística treinado e otimizado  
+  - 📜 **LICENSE** – Licença do projeto  
+  - 📝 **README.md** – Documentação do projeto (este arquivo)  
 
-AluraTelecomX2/
-│
-├── TelecomX_BR.ipynb                    # Notebook principal com análise completa
-├── dados_tratados.csv                   # Dataset pré-processado para análise
-├── modelo_random_forest_final.pkl       # Modelo Random Forest treinado e otimizado
-├── modelo_regressao_logistica_final.pkl # Modelo Regressão Logística treinado e otimizado
-├── LICENSE                              # Licença do projeto
-└── README.md                            # Documentação do projeto (este arquivo)
 
 
 ### Descrição dos Arquivos
